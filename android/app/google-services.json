@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070033038129",
+    "project_id": "bright-boost-fb1cd",
+    "storage_bucket": "bright-boost-fb1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070033038129:android:efd4306d4ffdf896079e10",
+        "android_client_info": {
+          "package_name": "com.bright.teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYjWpFV6dXK5zHNe7GZi0NGlbiQ-iKuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070033038129:android:2db00dc166a59d68079e10",
+        "android_client_info": {
+          "package_name": "com.example.bright_boost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYjWpFV6dXK5zHNe7GZi0NGlbiQ-iKuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
